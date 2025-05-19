@@ -1,0 +1,50 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "profileId": 1,
+      "title": "La Última Resistencia",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjM4YWRmYmMtODdhNS00YzM4LWFiZDktYjJkN2U5MGQ4NmUwXkEyXkFqcGc@._V1_.jpg",
+      "likes": "13.4k",
+      "comments": "1k",
+      "description": "Afiche cinematográfico que refleja la tensión...",
+      "technologies": [
+        "Photoshop",
+        "Composición digital",
+        "Corrección de color",
+        "Ilustración"
+      ]
+    },
+    {
+      "id": "2",
+      "profileId": 1,
+      "title": "Magia en Movimiento",
+      "image": "https://m.media-amazon.com/images/S/pv-target-images/a9d4b7304468dc759f95a943ceaadf1f0fca77b481fb5281f6d85e94a13c9f3a.jpg",
+      "likes": "23.4k",
+      "comments": "500",
+      "description": "Póster brillante y dinámico...",
+      "technologies": [
+        "Illustrator",
+        "Colorimetría digital",
+        "Diseño vectorial",
+        "Estilo infantil"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Amanecer en la Cosecha",
+      "profileId": 2,
+      "image": "https://imagenes.elpais.com/resizer/v2/GXGGOITRWJG55JTGBCWWJW5UKE.png?...",
+      "likes": "43.6k",
+      "comments": "13k",
+      "description": "Portada conceptual que simboliza la esperanza...",
+      "technologies": [
+        "Photoshop",
+        "Matte painting",
+        "Concept art",
+        "Manipulación de imagen"
+      ]
+    }
+    //... y los demás hasta el id 10
+  ]
+}
